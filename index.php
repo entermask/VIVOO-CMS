@@ -1,8 +1,5 @@
 <?php
 require_once('./_private/bundle.php');
-
-$title = 'Hoa ';
-
 require_once(HEADER);
 
 echo '
