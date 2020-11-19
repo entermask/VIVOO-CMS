@@ -16,11 +16,9 @@ $description = substr($description, 0, 157) . '...';
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="<?= $description ?>" />
     <meta name="keywords" content="<?= $keywords ?>" />
+    <link rel="stylesheet" href="<?= HOME.'/assets/css/bundle.css' ?>" />
     <title><?= $title ?></title>
 </head>
 
 <body>
-    sửa tại ./_private/footer.php
-</body>
-
-</html>
+    sửa tại ./_private/header.php
